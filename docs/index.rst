@@ -3,11 +3,11 @@ How to Install Big Fish Games on Windows 10 Easily
 
 Big Fish Games is one of the most popular platforms for casual games, offering a vast collection of puzzle, adventure, and strategy games for users across multiple devices. However, with Windows 10 now being the primary operating system for many users, installing Big Fish Games on Windows 10 may come with some questions. This guide will take you step-by-step through the process of installing Big Fish Games on Windows 10 and troubleshooting common installation problems.
 
-.. image:: click-here.gif
+.. image:: install.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://getchatsupport.live/
+   :target: https://softwareinstaller.net/
 
 Big Fish Games offers an impressive array of downloadable games for PC, Mac, and mobile platforms. Whether you're looking for hidden object games, time management games, or thrilling adventures, Big Fish provides an easy-to-navigate interface and a variety of games for all kinds of players.
 
